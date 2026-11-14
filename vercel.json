@@ -1,6 +1,4 @@
 {
-  "framework": null,
-  "installCommand": "",
-  "buildCommand": "",
-  "outputDirectory": "public"
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "fastapi"
 }
